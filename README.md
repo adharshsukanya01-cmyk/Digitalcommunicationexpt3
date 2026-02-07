@@ -143,7 +143,8 @@ plt.show()
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/8e9e62d6-722a-474b-9af8-d7f12e47d9b3" />
 
 ### Delta Modulation 
-<img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/57952969-10f1-4659-a506-65f9eb40e726" />
+![fa0b0a51-1668-4769-bed8-4ced0122c32b](https://github.com/user-attachments/assets/8e26d591-1d02-44a5-a169-bc4cee628f05)
+
 
 
 # Results
